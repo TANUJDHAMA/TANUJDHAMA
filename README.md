@@ -24,7 +24,9 @@ I want to work with a custom rom Ricedroid
 
 ## 🛠 Skills
 
-Logon ka Chutiya Banana :P
+Polishing whatever i know :P
+
+When done I'll Edit here :)
 
 
 ## Support

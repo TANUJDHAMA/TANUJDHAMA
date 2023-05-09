@@ -11,8 +11,6 @@ I am a Pharmacist by Profession Working in Dwarka New Delhi.
 
 Doing Linux/Android Custom ROM Development as a FUN !!
 
-I want to work with a custom rom Ricedroid 
-# #gtrcd
 
 ## 🔗 Links
 [![portfolio](https://i.postimg.cc/s2GCg9RQ/Pay-Pal-horizontally-Logo-2014.png)](https://paypal.me/tnuj5321/)

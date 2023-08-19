@@ -17,7 +17,7 @@ Doing Linux/Android Custom ROM Development as a FUN !!
 
 [![twitter](https://i.postimg.cc/wMRw2tPV/Twitterbird.webp)](https://twitter.com/hr_dhama)
 
-[![Telegram](https://i.postimg.cc/5tb2HRnY/OIP.jpg)](https://t.me/whytellyou)
+[![Telegram](https://i.postimg.cc/5tb2HRnY/OIP.jpg)](https://t.me/hr_dhama)
 
 
 ## 🛠 Skills
@@ -30,4 +30,4 @@ When done I'll Edit here :)
 ## Support
 
 For support, telegram 
-# https://t.me/whytellyou
+# https://t.me/hr_dhama
